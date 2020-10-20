@@ -1,2 +1,2 @@
 # ProjectEuler
-My attempt at solutions to the Project Eulers
+My attempt at solutions for Project Euler.
